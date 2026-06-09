@@ -30,5 +30,3 @@ class Producto:
             print("Stock negativo no es aceptable")
 
 
-
-producto1 = Producto()
