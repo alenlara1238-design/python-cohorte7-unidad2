@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./clase4/youtube"
+    ]
+}
