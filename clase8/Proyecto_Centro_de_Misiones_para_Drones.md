@@ -136,17 +136,6 @@ mision.ejecutar()
 El programa siempre invocará los mismos métodos sobre objetos
 diferentes, demostrando el uso del **polimorfismo**.
 
-## Restricciones
-
-1.  Cada clase debe estar en un archivo independiente.
-2.  Todas las clases hijas deben heredar de `Mision`.
-3.  Todas las clases hijas deben sobrescribir `ejecutar()`.
-4.  Los atributos deben estar encapsulados.
-5.  El menú debe repetirse hasta que el usuario seleccione **Salir**.
-6.  No se permite utilizar variables globales para almacenar la misión
-    actual.
-7.  El programa debe iniciar desde `main.py`.
-
 ## Reto adicional
 
 Implementa una quinta misión creada por ti que herede de `Mision` y
